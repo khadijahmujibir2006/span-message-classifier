@@ -1,1 +1,1 @@
-# span-message-classifier
+# spam-message-classifier
